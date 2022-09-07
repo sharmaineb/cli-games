@@ -1,4 +1,3 @@
-import imp
 from random import randint, random; import time; import random, sys
 
 #imported random library and time library for countdown during game
